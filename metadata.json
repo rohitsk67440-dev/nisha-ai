@@ -1,0 +1,6 @@
+{
+  "name": "Nisha AI Assistant",
+  "description": "Real-time voice-to-voice AI assistant with a witty, sassy, flirty persona in a cyberpunk hacker UI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
